@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6e9cd7b1.css",
-    "main.js": "/static/js/main.e9e87928.js",
+    "main.js": "/static/js/main.a22fe0d1.js",
     "static/js/206.7fe358d8.chunk.js": "/static/js/206.7fe358d8.chunk.js",
     "static/media/business_profile.pdf": "/static/media/business_profile.dffb3d22dbc8dff015d4.pdf",
     "static/media/Frame.png": "/static/media/Frame.ef0d9342f1d2bfd5128c.png",
@@ -237,6 +237,6 @@
   },
   "entrypoints": [
     "static/css/main.6e9cd7b1.css",
-    "static/js/main.e9e87928.js"
+    "static/js/main.a22fe0d1.js"
   ]
 }
